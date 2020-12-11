@@ -48,4 +48,5 @@ func init() {
 	AddToTraits(newServiceBindingTrait)
 	AddToTraits(newOwnerTrait)
 	AddToTraits(newPdbTrait)
+	AddToTraits(newPodTrait)
 }
